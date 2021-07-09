@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.example</groupId>
     <artifactId>build-incrementor</artifactId>
-    <version>${finalName}</version>
+    <version>build-incrementor-${buildNumber}-SNAPSHOT</version>
     <name>build-incrementor</name>
     <description>Demo project for Spring Boot</description>
     <properties>
